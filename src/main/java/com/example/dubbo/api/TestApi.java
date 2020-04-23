@@ -11,5 +11,6 @@ public interface TestApi {
 
         List<TestMybatis> list();
         boolean update();
+        boolean insert();
 
 }
